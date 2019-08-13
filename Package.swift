@@ -15,8 +15,5 @@ let package = Package(
         .target(
             name: "SwiftButton",
             dependencies: ["SwiftyGPIO"]),
-//        .testTarget(
-//            name: "SwiftButtonTests",
-//            dependencies: ["SwiftButton"]),
-    ]
+   ]
 )
